@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL is the base hostname with protocol for your site, eg http://example.com
-url: "w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here.
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -28,7 +28,7 @@ baseurl: ""
 # Website Header, Description, Footer year and text.
 # If you are deleting this, make sure you remove it from HTML files too
 heading: Dark Forest # Change this
-content: "Todos nós temos florestas em nossas mentes. Florestas inexploradas, sem fim. Cada um de nós se perde na floresta, todas as noites, sozinho". Ursula K. Le Guin
+content: "Todos nós temos florestas em nossas mentes. Florestas inexploradas, sem fim. Cada um de nós se perde na floresta, todas as noites, sozinho"
 copyright:
   year: © 2022
   msg: Este obra está licenciado com uma Licença Creative Commons Atribuição 4.0 Internacional

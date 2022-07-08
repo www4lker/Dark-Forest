@@ -171,7 +171,7 @@ iframe,
 hr,
 {
   margin: 0;
-  padding: 0; 
+  padding: 0;
 }
 
 ul {
@@ -232,7 +232,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: -apple-system, et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;}
 
 code,
 pre {
@@ -641,13 +641,13 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-weight: 700 !important; }
 
 .is-family-primary {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Palatino Linotype", et-book, Palatino, "Palatino LT STD", "Book Antiqua", Georgia, serif !important; }
 
 .is-family-secondary {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Palatino Linotype", et-book, Palatino, "Palatino LT STD", "Book Antiqua", Georgia, serif !important; }
 
 .is-family-sans-serif {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Palatino Linotype", et-book, Palatino, "Palatino LT STD", "Book Antiqua", Georgia, serif !important; }
 
 .is-family-monospace {
   font-family: monospace !important; }
@@ -1139,10 +1139,10 @@ a.box-feed:active {
       list-style-type: upper-roman; }
 ol p {
         display: contents;
-    }      
+    }
 .content ul {
   list-style: inside;
-  margin-top: 1rem; 
+  margin-top: 1rem;
   padding-left: 0.4rem;
   margin-block: 0;
 }
@@ -2507,7 +2507,7 @@ a.navbar-item,
   .navbar-link::after {
     display: none; }
   .navbar-menu {
-    
+
    }
     .navbar-menu.is-active {
       display: block; }
@@ -3855,7 +3855,7 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 0rem; } 
+      padding: 0rem; }
   .note-cards .content {
     width: 88%; }
     }
@@ -3901,4 +3901,3 @@ a.tag:hover {
   input {
     color:(--color-text-sub) !important;
   }
-  
