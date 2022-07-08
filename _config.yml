@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL is the base hostname with protocol for your site, eg http://example.com
-url: "https://www4lker.github.io/Dark-Forest/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here.
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -28,15 +28,15 @@ baseurl: ""
 # Website Header, Description, Footer year and text.
 # If you are deleting this, make sure you remove it from HTML files too
 heading: Dark Forest # Change this
-content: Obsidian ready Jekyll Theme
+content: "Todos nós temos florestas em nossas mentes. Florestas inexploradas, sem fim. Cada um de nós se perde na floresta, todas as noites, sozinho". Ursula K. Le Guin
 copyright:
   year: © 2022
-  msg: Contents under CC-BY-NC
+  msg: Este obra está licenciado com uma Licença Creative Commons Atribuição 4.0 Internacional
 
 # Set title and content for private & broken link tooltop
 privatelinks:
-  title: Private or Broken Links
-  msg: The page you're looking for is either not available or private!
+  title: Link privado ou fora de funcionamento
+  msg: A página está inacessível
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"
