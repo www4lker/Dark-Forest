@@ -82,7 +82,7 @@
                     {%- else -%}
                             <!--- Show Feed Part -->
                 <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                            <h5 class="meta-title"><a href="/">← Home</a></h5>
+                            <h5 class="meta-title"><a href="/">← Início</a></h5>
                             <div class="jumbo">{{page.title}}</div>
                             {%- include FeedContent.html -%}
                             {%- include Feed.html -%}
@@ -94,7 +94,7 @@
             <!--- Notes Feed Layout-->
             {%- if page.feedformat -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
+                <h5 class="meta-title"><a href="/">← Início</a></h5>
                     <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {%- include Feed.html -%}
@@ -119,7 +119,7 @@
                         li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
                         .content ul { padding-left: 0px;}
                         h3 {padding-top: 1rem; padding-bottom: 0rem;}
-                    </style>                    
+                    </style>
                     {%- endif -%}
                     <h1>{{page.title}}</h1>
                     {%- include Content.html -%}
@@ -132,20 +132,20 @@
             <!--- Post Feed Layout-->
             {%- if page.permalink == "/posts" -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
+                <h5 class="meta-title"><a href="/">← Início</a></h5>
                 <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {% for post in site.posts %}
-                        <div class="list-feed"> 
+                        <div class="list-feed">
                         <a href="{{ site.baseurl }}{{post.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
                             <div class="writinglist-title">{{post.title }}</div>
                         </a>
                         </div>
                     {%- endfor -%}
-            </div> 
+            </div>
 
             <ul>
-                
+
             {%- endif -%}
 
              <!--- Post Layout-->
@@ -158,7 +158,7 @@
                              {%- else -%}
                              <a onclick="window.location.assign('/');">
                              {%- endif -%}
-                                     <h5 class="meta-title">← BACK</h5>
+                                     <h5 class="meta-title">← VOLTA</h5>
                              </a>
                          </div>
                      <h1>{{page.title}}</h1>
@@ -171,13 +171,13 @@
             <!--- Static Page Layout-->
             {%- if page.content-type == "static" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                        <div class="jumbo">{{page.title}}</div>                        
+                        <div class="jumbo">{{page.title}}</div>
                         {%- include Content.html -%}
                 </div>
             {%- endif -%}
         </div>
-    </section>   
-    {%- include Footer.html -%}             
+    </section>
+    {%- include Footer.html -%}
 </main>
 </body>
 </html>
