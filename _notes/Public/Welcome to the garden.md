@@ -1,6 +1,6 @@
 ---
 title : Welcome to the garden
-feed: show
+feed: hide
 date : 15-04-2021
 ---
 

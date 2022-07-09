@@ -1,6 +1,6 @@
 ---
 title: Hidden Note
-feed: show
+feed: hide
 date : 01-01-2021
 ---
 
