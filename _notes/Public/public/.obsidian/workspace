@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "58ea810b461da2ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "022abd4d179ed48a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "981d12cc30ff4eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd458a7c69fddb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe1c205f8428ed7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef53befe4c2a0a5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a0844997e731f0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "039bc229e96d0c43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca05e57f136181f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d760b363ec3fea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73005beeaeb129e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d93f3463ddeb01c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "022abd4d179ed48a",
+  "lastOpenFiles": [
+    "RECURSOS/IMAGENS/juiz_penitente_a_pollock_action_painting_but_only_with_black_an_275b6f90-781e-476b-a727-c3e8af87fb4c.png",
+    "RECURSOS/templates/nova_nota_ocultar.md",
+    "RECURSOS/templates/nova_nota_mostrar.md",
+    "NOTAS DE PROJETO/LEITURAS/Quando deixamos de entender o mundo.md",
+    "NOTAS DE PROJETO/LEITURAS/poxavida.md",
+    "NOTAS DE PROJETO/LEITURAS/QUANDO DEIXAMOS DE ENTENDER O MUNDO.md",
+    "uma primeira nota.md"
+  ]
+}
