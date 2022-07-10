@@ -1,12 +1,12 @@
---- 
-layout: Stylesheet 
---- 
+---
+layout: Stylesheet
+---
 @import "fruity.css";
 
 
 html,
 html[data-theme="light"] {
-    --color-bg-main: #FFFFFF;
+    --color-bg-main: #C2B280;
     --color-bg-sub: #FAFAFC;
     --color-text-main: #282832;
     --color-text-sub: #5D5D67;
@@ -17,8 +17,8 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #262626;
-    --color-bg-sub: #18181C;
+    --color-bg-main: #243348;
+    --color-bg-sub: #9BC7C8;
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
     --color-text-link: #6D9EFF;
@@ -31,8 +31,8 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #262626;
-        --color-bg-sub: #18181C;
+        --color-bg-main: #243348;
+        --color-bg-sub: #9BC7C8;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
         --color-text-link: #6D9EFF;
@@ -42,7 +42,7 @@ html[data-theme="dark"] {
     }
 
     html[data-theme="light"] {
-        --color-bg-main: #FFFFFF;
+        --color-bg-main: #C2B280;
         --color-bg-sub: #FAFAFC;
         --color-text-main: #282832;
         --color-text-sub: #5D5D67;
@@ -1593,6 +1593,3 @@ a[href^="http"] {
         padding-top: 2rem;
     }
 }
-
-
-

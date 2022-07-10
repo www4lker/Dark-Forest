@@ -3,7 +3,7 @@ title: cronograma de leitura
 feed: show
 date: 2022-07-08
 ---
-
+Lendo Irmãos Karamázov em conjunto:
 
 - Encontro 01 - 05/07 - até a pág. 181
 - Fim do item v., Livro III: Confissão de um coração ardente, "de pernas para o ar".
