@@ -30,7 +30,7 @@ baseurl: ""
 heading: Dark Forest # Change this
 content: "Todos nós temos florestas em nossas mentes. Florestas inexploradas, sem fim. Cada um de nós se perde na floresta, todas as noites, sozinho"
 copyright:
-  year: © 2022
+  year:
   msg: Este obra está licenciado com uma Licença Creative Commons Atribuição 4.0 Internacional
 
 # Set title and content for private & broken link tooltop
